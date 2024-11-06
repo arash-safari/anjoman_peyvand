@@ -1,0 +1,78 @@
+/* src/pages/Home.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #e0e8f0;
+    color: #333;
+  }
+  
+  .container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .diagonal-split {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+    background: #ffffff;
+  }
+  
+  .content {
+    display: flex;
+    width: 90%;
+    max-width: 1200px;
+    height: 80%;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+    position: relative;
+  }
+  
+  .left-content,
+  .right-content {
+    width: 48%;
+    padding: 20px;
+  }
+  
+  .left-content {
+    text-align: left;
+    font-size: 1.2em;
+  }
+  
+  .right-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .right-content video {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    background: #f4f7fa;
+  }
+  
