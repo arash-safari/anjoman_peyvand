@@ -17,12 +17,16 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-left">
-        <h1 className="navbar-title">Persian Orthography Association</h1>
+        <h1 className="navbar-title">Anjomane alefbäye peyvand</h1>
         <ul className="navbar-links">
-          <li><Link to="/">Ḣane</Link></li>
-          <li><Link to="/about">About</Link></li>
-          <li><Link to="/orthography-rules">Orthography Rules</Link></li>
-          <li><Link to="/contact">Contact</Link></li>
+          <li><Link to="/">Ḣäne</Link></li>
+          <li><Link to="/Cerä?">Cerä?</Link></li>
+          <li><Link to="/Alefbä">Alefbä</Link></li>
+          <li><Link to="/Kibord">Kibord</Link></li>
+          <li><Link to="/Morurgarhä">Morurgarhä</Link></li>
+          <li><Link to="/Forušgäh">Forušgäh</Link></li>
+          <li><Link to="/Hamkäri&Hamrähi">Hamkäri&Hamrähi</Link></li>
+          <li><Link to="/Darbäreye mä">Darbäreye mä</Link></li>
         </ul>
       </div>
     </nav>

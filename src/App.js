@@ -8,6 +8,9 @@ import About from './pages/About';
 import OrthographyRules from './pages/OrthographyRules';
 import Contact from './pages/Contact';
 import './App.css';
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto&family=Playfair+Display&display=swap" rel="stylesheet"/>
+</head>
 
 const App = () => {
   return (
