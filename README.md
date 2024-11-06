@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# porže ḣatt nowin fârsi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+in porže yek porže manba'bâz ast ke bâ hadaf towse'e o tarviž yek sistem neveshtâri jadid barâye zaban fârsi ijâd šode ast ḣatt nowin mâ be masâ'el mohem ke dar ḣatt konuni 'arabi mabnâ vojood dârad mipayradâzad bâ mo'arrefi in ḣatt jadid mixâhim zaban fârsi râ barâye fârsi zabânân o hamčenin 'aleqmandân be yâdgiri fârsi az sarâsar jehan dasraspazirtar o sâdetar konim
 
-## Available Scripts
+## čerâ ḣatt nowin barâye fârsi
 
-In the project directory, you can run:
+ḣatt 'arabi bâ vojood ahamiyat târixiâš barâye fârsi zabânân o beviže zaban âmuzân va kodakân ebehâmâti ijâd mikonad
 
-### `npm start`
+- **ebehâm dar talaf'of** ḣatt 'arabi az horoof mokhtalef barâye sedâhâyi ke dar fârsi yeksân talaf'of mišavand estefâde mikonad beonvân mesâl dar fârsi čâhar harf mokhtalef barâye sedâye "z" (ز ض ذ ظ) va se harf barâye sedâye "s" (س ث ص) vojood dârad in mowzu' yâdgiri xândan va neveshtan fârsi râ beviže barâye kodakân došvârtar mikonad
+- **dasraspaziri kamtar** ḣatt 'arabi mitavânad barâye afrad qeyr bomi yâdgiri došvâri ijâd konad va dasrasi be zaban fârsi râ barâye jâme' beynolmelali mahdood konad
+- **yekpârče sâzi va sâde sâzi** bâ pazirš yek ḣatt mansažem va sâdetar hadaf mâ ḣazf afzoondegi hâ va âsântar kardan xândan neveshtan va yâdgiri fârsi ast
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## osol kelidi
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ḣatt pišnahâdi mâ talâš mikonad tâ talaf'of fârsi râ be sistemi mobtani bar horoof latin nazdiktar konad va dar 'ayn hâl sedâhâ fârsi râ ḣefz karde va zaban râ barâye yâdgirandegân jehani dasraspazirtar sâzâd har harf dar in ḣatt jadid besoorat yekta bâ yek sedâ xâs fârsi motâbeqat dârad va be in tartib ebehâm dar yâdgiri zaban kâheš miyâbad
 
-### `npm test`
+## negâšt ḣatt jadid
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+dar injâ listi az taġirât ḣatt jadid va sedâhâ motažâre ân dar fârsi âmade ast
 
-### `npm run build`
+| harf | sedâ fârsi | mesâl |
+| ------ | ------------- | ------- |
+| **a**  | ا             | asb (اسب) |
+| **e**  | ا             | esm (اسم) |
+| **u**  | او             | u (او) |
+| **o**  | ا             | ordak (اردک) |
+| **c**  | چ             | cərâq (چراغ) |
+| **ḣ**  | خ             | ḣâne (خانه) |
+| **ä**  | آ             | ämeden (آمدن) |
+| **š**  | ش             | šab (شب) |
+| **ž**  | ژ             | žâle (ژاله) |
+| **q**  | ق             | qâlb (قلب) |
+| **'**  | ع             | 'ešq (عشق) |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+bâ hamsânsâzi in karakterhâ bâ yek sistem latin hadaf mâ ijâd yek ḣatt neveshtâri ast ke ham barâye fârsi zabânân va ham barâye moxtaban jehani šehuditar va qâbel dasrasi tar bâšad 'alâva bar in in rowyârd ebehâmi râ ke oft be oft dar neveshtâr fârsi dide mišavad be had aqal mirâsâd va masir yâdgiri barâye zaban âmuzân jadid râ šafâftar mikonad
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## be in harakat bepeyvandid
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+in porže besoorat manba'bâz ast va az hamkari fârsi zabânân va 'aleqmandân be zaban da'vat mikonad tâ be mâ dar bebood tarviž va pazirš in ḣatt jadid komak konand mâ az šomâ da'vat mikonim tâ be mâ bepivandid va neveshtan va xândan fârsi râ barâye naslhâ ye âyande âsântar va qâbel dasras tar konim če towse'dehandé bâšid če zaban šenâs ya ṣerfan 'âleqmand be zaban fârsi mošârekat šomâ arzânde xâhad bud
 
-### `npm run eject`
+bâyid zaban fârsi râ barâye hamagân qâbel dasrasi konim bâ ham be taġir šive neveshtâr va xândan fârsi barâye jâme' jehani bepeyvandid
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+in matn qâbel virâyeš va taġir ast va mitavânid har baxš râ motâbeq bâ niyâz xod eṣlâḣ konid
