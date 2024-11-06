@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Persian Orthography Converter",
+    "version": "1.0",
+    "description": "Replaces Persian words on the page with custom orthography.",
+    "permissions": ["scripting", "activeTab", "storage"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["orthography.js", "content.js"]
+      }
+    ]
+}
