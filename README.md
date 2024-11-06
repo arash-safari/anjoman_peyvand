@@ -1,45 +1,41 @@
-# porže ḣatt nowin fârsi
+# Porže ḣate nowine färsi
 
-in porže yek porže manba'bâz ast ke bâ hadaf towse'e o tarviž yek sistem neveshtâri jadid barâye zaban fârsi ijâd šode ast ḣatt nowin mâ be masâ'el mohem ke dar ḣatt konuni 'arabi mabnâ vojood dârad mipayradâzad bâ mo'arrefi in ḣatt jadid mixâhim zaban fârsi râ barâye fârsi zabânân o hamčenin 'aleqmandân be yâdgiri fârsi az sarâsar jehan dasraspazirtar o sâdetar konim
+In porže yek porže manba'bäz ast ke bä hadafe towse'e o tarviž yek sistem neveshtäri jadid baräye zaban färsi ijäd šode ast ḣate nowin mä (peyvand) be masä'ele mohemi ke dar ḣate konuni 'arabi mabnä vojood därad mipayradäzad bä mo'arrefi in ḣate jadid mixähim zabane färsi rä baräye färsi zabänän va hamcenin 'aleqemandän be yädgiri färsi az saräsare jehan dasraspazirtar va sädetar konim
 
-## čerâ ḣatt nowin barâye fârsi
+## Cerä ḣate nowin baräye färsi
 
-ḣatt 'arabi bâ vojood ahamiyat târixiâš barâye fârsi zabânân o beviže zaban âmuzân va kodakân ebehâmâti ijâd mikonad
+Ḣate 'arabi bä vojoode ahamiyat tärixiäš baräye färsi zabänän va beviže zabän ämuzän va kodakän ebehämäti ijäd mikonad
 
-- **ebehâm dar talaf'of** ḣatt 'arabi az horoof mokhtalef barâye sedâhâyi ke dar fârsi yeksân talaf'of mišavand estefâde mikonad beonvân mesâl dar fârsi čâhar harf mokhtalef barâye sedâye "z" (ز ض ذ ظ) va se harf barâye sedâye "s" (س ث ص) vojood dârad in mowzu' yâdgiri xândan va neveshtan fârsi râ beviže barâye kodakân došvârtar mikonad
-- **dasraspaziri kamtar** ḣatt 'arabi mitavânad barâye afrad qeyr bomi yâdgiri došvâri ijâd konad va dasrasi be zaban fârsi râ barâye jâme' beynolmelali mahdood konad
-- **yekpârče sâzi va sâde sâzi** bâ pazirš yek ḣatt mansažem va sâdetar hadaf mâ ḣazf afzoondegi hâ va âsântar kardan xândan neveshtan va yâdgiri fârsi ast
+- **Ebehäm dar talafoz** Hate 'arabi az horufe mokhtalefi baräye sedähäyi ke dar färsi yeksän talafoz mišavand estefäde mikonad beonväne mesäl dar färsi cähar harf mokhtalef baräye sedäye "z" (ز ض ذ ظ) va se harf baräye sedäye "s" (س ث ص) vojood därad in mo'zu' yädgiri zabän va neveshtan färsi rä beviže baräye kodakän došvärtar mikonad
+- **Dastraspaziriye kamtar** Ḣate 'arabi mitavänad baräye afrade qeyre bumi yädgiri došväri ijäd konad va dastrasi be zabane färsi rä baräye jäme' beynolmelali mahdud konad
+- **Yekpärce säzi va säde säzi** Bä pazirš yek ḣate mansažem va sädetar hadaf mä ḣazfe afzundegi hä va äsäntar kardan zanbäne neveshtar va yädgiri färsi ast
 
-## osol kelidi
+## Osule kelidi
 
-ḣatt pišnahâdi mâ talâš mikonad tâ talaf'of fârsi râ be sistemi mobtani bar horoof latin nazdiktar konad va dar 'ayn hâl sedâhâ fârsi râ ḣefz karde va zaban râ barâye yâdgirandegân jehani dasraspazirtar sâzâd har harf dar in ḣatt jadid besoorat yekta bâ yek sedâ xâs fârsi motâbeqat dârad va be in tartib ebehâm dar yâdgiri zaban kâheš miyâbad
+Ḣate pišnahädiye mä taläš mikonad tä talafoze färsi rä be sistemi mobtani bar horufe latin nazdiktar konad va dar 'ayne häl sedähäye färsi rä ḣefz karde va zaban rä baräye yädgirandegän jehani dastraspazirtar säzad har harf dar in ḣate jadid besurate yekta bä yek sedä ḣäse färsi motäbeqat därad va be in tariq ebehäm dar yädgiriye zaban käheš miyäbad
 
-## negâšt ḣatt jadid
+## Negäšte ḣate jadid
 
-dar injâ listi az taġirât ḣatt jadid va sedâhâ motažâre ân dar fârsi âmade ast
+Dar injä listi az taġiräte ḣate jadid va sedähä motanäzäre än dar färsi nevešte šode ast.
 
-| harf | sedâ fârsi | mesâl |
+| Harf | Sedä färsi | Mesäl |
 | ------ | ------------- | ------- |
 | **a**  | ا             | asb (اسب) |
 | **e**  | ا             | esm (اسم) |
 | **u**  | او             | u (او) |
 | **o**  | ا             | ordak (اردک) |
-| **c**  | چ             | cərâq (چراغ) |
-| **ḣ**  | خ             | ḣâne (خانه) |
+| **c**  | چ             | cəräq (چراغ) |
+| **ḣ**  | خ             | ḣäne (خانه) |
 | **ä**  | آ             | ämeden (آمدن) |
 | **š**  | ش             | šab (شب) |
-| **ž**  | ژ             | žâle (ژاله) |
-| **q**  | ق             | qâlb (قلب) |
+| **ž**  | ژ             | žäle (ژاله) |
+| **q**  | ق             | qälb (قلب) |
 | **'**  | ع             | 'ešq (عشق) |
 
-bâ hamsânsâzi in karakterhâ bâ yek sistem latin hadaf mâ ijâd yek ḣatt neveshtâri ast ke ham barâye fârsi zabânân va ham barâye moxtaban jehani šehuditar va qâbel dasrasi tar bâšad 'alâva bar in in rowyârd ebehâmi râ ke oft be oft dar neveshtâr fârsi dide mišavad be had aqal mirâsâd va masir yâdgiri barâye zaban âmuzân jadid râ šafâftar mikonad
+Bä hamsänsäzi in karakterhä bä yek sisteme latin hadafe mä ijäde yek ḣate neveshtäri ast ke ham baräye färsi zabänän va ham baräye moḣatabane jehani sädetar va qäbel dasras tar bäšad 'aläva bar in in ruykärde ebehämi rä ke dar neveshtär färsi dide mišavad be hade aqal miresänad va masire yädgiri baräye zaban ämuzäne jadid rä šafäftar mikonad
 
-## be in harakat bepeyvandid
+## Be in harakate bepeyvandid
 
-in porže besoorat manba'bâz ast va az hamkari fârsi zabânân va 'aleqmandân be zaban da'vat mikonad tâ be mâ dar bebood tarviž va pazirš in ḣatt jadid komak konand mâ az šomâ da'vat mikonim tâ be mâ bepivandid va neveshtan va xândan fârsi râ barâye naslhâ ye âyande âsântar va qâbel dasras tar konim če towse'dehandé bâšid če zaban šenâs ya ṣerfan 'âleqmand be zaban fârsi mošârekat šomâ arzânde xâhad bud
+In porže besurate manbäbäz ast va az hamkariye färsi zabänän va aläqemandän be zaban da'vat mikonad tä be mä dar behbud va tarviž va pazirše in ḣate jadid komak konand mä az šomä da'vat mikonim tä be mä bepivandid va neveshtan va zabäne färsi rä baräye naslhä ye äyande äsäntar va qäbele dastras tar konim ce to'se'dehande bäšid ce zabän šenäs ya serfan alaqemand be zabän färsi mošärekat šomä arzande ḣähad bud.
 
-bâyid zaban fârsi râ barâye hamagân qâbel dasrasi konim bâ ham be taġir šive neveshtâr va xândan fârsi barâye jâme' jehani bepeyvandid
-
----
-
-in matn qâbel virâyeš va taġir ast va mitavânid har baxš râ motâbeq bâ niyâz xod eṣlâḣ konid
+Biyäyid zabane färsi rä baräye hamagän qäbele dastrastar konim bä ham be taġire šive neveshtär va zabäne färsi baräye jäme'ye jehani bepeyvandid
